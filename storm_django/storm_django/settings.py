@@ -47,7 +47,7 @@ INSTALLED_APPS = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'https://localhost:8080',
+    'http://localhost:8080',
 ]
 
 MIDDLEWARE = [
