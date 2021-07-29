@@ -1,30 +1,39 @@
-## Storm E-Commerce Store
+# Storm E-Commerce Store
 
 - This is a fullstack e-commerce store using python and django rest framework using Vue for the frontend. Users are able to scroll through the store based on 2 season, as well as searching for products individually. Users can browse and add items to the cart without signing in or signing up. Users can also signup and sign in to actually purchase the items in their cart.
 
 - The admins of the site can log in via the superuser as well as perform full crud for other admins for their staff. The admin can address orders that have been placed as well as upadate all info for clients as well as products in the store.
 
-## Dependencies
-
-- django
-- django-rest-framework
-- djoser
-- pillow
-- django-cors-headers
-- stripe
-- axios
-- bulma
-- core-js
-- vue
-- vue-router
-- vuex
-
-# Requirements
+# Prerequisites
 
 - Python 3 or higher
-- node 14.7.3
+  - Python Install Instructions
+  - https://www.python.org/downloads/
+- Node 14.7.3
+  - Node Install Instructions
+  - https://nodejs.org/en/download/
 
-## Set Up Guide
+## Dependencies
+
+> Python
+
+- Django
+- Django-rest-framework
+- Djoser
+- Pillow
+- Django-cors-headers
+- Stripe
+
+> Javascript
+
+- Axios
+- Bulma
+- Core-js
+- Vue
+- Vue-router
+- Vuex
+
+# Set Up Guide
 
 First thing is clone the repository:
 
