@@ -1,6 +1,6 @@
 ## Storm E-Commerce Store
 
-- This is fullstack e-commerce store using python and django rest framework using Vue for the frontend. Users are able to scroll through the store based on 2 season, as well as searching for products individually. Users can browse and add items to the cart without signing in or signing up. Users can also signup and sign in to actually purchase the items in their cart.
+- This is a fullstack e-commerce store using python and django rest framework using Vue for the frontend. Users are able to scroll through the store based on 2 season, as well as searching for products individually. Users can browse and add items to the cart without signing in or signing up. Users can also signup and sign in to actually purchase the items in their cart.
 
 - The admins of the site can log in via the superuser as well as perform full crud for other admins for their staff. The admin can address orders that have been placed as well as upadate all info for clients as well as products in the store.
 
