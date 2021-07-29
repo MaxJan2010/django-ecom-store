@@ -10,15 +10,15 @@ I need to fix the ordering process, I successfuly added strip but I am having is
 
 ## Dependencies
 
-django = "_"
-django-rest-framework = "_"
-djoser = "_"
-pillow = "_"
-django-cors-headers = "_"
-stripe = "_"
-"axios": "^0.21.1",
-"bulma": "^0.9.3",
-"core-js": "^3.6.5",
-"vue": "^3.0.0",
-"vue-router": "^4.0.0-0",
-"vuex": "^4.0.0-0"
+- django
+- django-rest-framework
+- djoser
+- pillow
+- django-cors-headers
+- stripe
+- "axios"
+- "bulma"
+- "core-js"
+- "vue"
+- "vue-router
+- "vuex"
