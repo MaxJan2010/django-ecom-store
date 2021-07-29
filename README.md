@@ -22,9 +22,7 @@
 # Requirements
 
 - Python 3 or higher
-- Pipenv
-- npm
--
+- node 14.7.3
 
 ## Set Up Guide
 
